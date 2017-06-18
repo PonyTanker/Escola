@@ -1,0 +1,51 @@
+a  {
+    outline: none;
+    text-decoration: none;
+}
+/*===================DEMAIS============================*/
+body {
+	background-color:rgba(255, 255, 255, 0.65);
+	margin:0;
+	padding:0;
+    font-family: 'Montserrat', sans-serif;
+}
+main {
+    float: left;
+    width: 100%;
+}
+
+.elenco {
+    display: block;
+    width: 80%;
+    margin: 70px auto; 
+    text-align: center;
+    box-shadow: 10px 10px 15px rgba(128, 128, 128, 0.82);
+}
+table {
+    border-radius:5px;
+    background: rgb(0, 26, 113);
+    padding: 10px;
+    width: 100%;
+    color: white;
+    font-size: 18px;
+}
+table td {
+/*    border: 1px solid white;*/
+    padding: 10px;
+    border-spacing: 0px;
+}
+.ct {
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 20px;
+}
+.le {
+    text-align: right;
+    font-size: 20px;
+}
+.vitoria {
+    color:#0a310a;
+}
+.derrota {
+    color: #6d0000;
+}

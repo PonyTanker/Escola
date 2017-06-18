@@ -1,0 +1,93 @@
+* {
+    padding: 0px; 
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+.cabecalho {
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #000000;
+    color: white;
+    font-weight: 600;
+    box-shadow: 3px 5px 10px gray;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.cabecalho img {
+    position: absolute;
+    left:100px;
+    top: 0px;
+    width: 100px;
+}
+.cabecalho p {
+    width: 65%;
+    margin: 0 auto;
+}
+.perfils {
+    width: 80%;
+    margin:  0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.caixa {
+    width: 50%;
+    float: left;
+    position: relative;
+    text-align: center;
+    margin-bottom: 20%;
+}
+.caixa img {
+    border-radius: 50%;
+    width: 100px;
+    border: 2px solid #000000;
+    padding: 1px;
+    margin: 10px;
+}
+.dados {
+    
+}
+.texto p {
+    text-align: justify;
+    padding: 20px;
+}
+blockquote {
+    border-bottom: 2px solid gray;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.icones {
+    font-size: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+.ion-social-facebook:hover {
+    color: #00006a;
+}
+.ion-social-twitter:hover {
+    color: #0545ac;
+}
+.ion-social-instagram:hover {
+    color: #34002e;
+}
+.uso {
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+.uso table {
+    margin:  0 auto;
+}
+.uso table td {
+    padding: 5px;
+}
+.uso table span {
+    font-size: 25px;
+}
+.uso table .ld {
+    text-align: right;
+}
